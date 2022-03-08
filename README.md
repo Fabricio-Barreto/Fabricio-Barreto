@@ -1,3 +1,5 @@
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=Fabricio-Barreto&label=Profile%20views&color=877657&style=flat" alt="Abiscula" /></p>
+
 Hi there, I'm Fabricio Barreto Nogueira 💻
 
 - 🌱 I’m currently learning NodeJS and Java.
