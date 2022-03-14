@@ -9,7 +9,7 @@ Hi there, I'm Fabricio Barreto Nogueira 💻
 <div align="center">
   <a href="https://github.com/Fabricio-Barreto">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Fabricio-Barreto&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fabricio-Barreto&layout=compact&langs_count=8&theme=chartreuse-dark&hide=jupyter%20notebook"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fabricio-Barreto&layout=compact&langs_count=8&theme=chartreuse-dark&hide=jupyter%20notebook, ShaderLab, ASP.Net"/>
 </div>
  <div style="display: inline_block"><br>
   <img align="center" alt="Fabricio-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
