@@ -5,6 +5,7 @@ Hi there, I'm Fabricio Barreto Nogueira 💻
 - 🌱 I’m currently learning NodeJS and Java.
 - 📫 How to reach me via email: fabriciobarrr@gmail.com 
 - ⚡ Fun fact: My nickname is Plancto, I found this name in a biology book.
+- 💻 my portfolio - <a>plancto.herokuapp.com</a>
 
 <div align="center">
   <a href="https://github.com/Fabricio-Barreto">
